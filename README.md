@@ -1,3 +1,7 @@
+<img align="center" src="https://pbs.twimg.com/profile_banners/58002344/1467227107/1500x500" width="100%" alt="hellopovi" />
+
+---
+
 # Hello
 I am povi, Chief Software Engineer at Danske Bank.
 I build responsive web, cross-platform apps and ensure team's efficiency and productivity.
